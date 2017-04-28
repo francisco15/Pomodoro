@@ -62,3 +62,13 @@ body {
   cursor: ew-resize;
   position: relative;
 }
+
+#timeline {
+  width: 676px;
+  height: 50px;
+  position: absolute;
+  top: 110px;
+  left: 150px;
+  background: url("images/pomodoro.png") no-repeat;
+  background-size: 100% 100%;
+}
